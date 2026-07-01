@@ -1,9 +1,11 @@
 import { useState } from 'react'
-import './App.css'
+import AddCartBtn from './components/AddCartBtn'
 
 function App() {
   return (
-    <></>
+    <>
+    <AddCartBtn/>
+    </>
   )
 }
 
